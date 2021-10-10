@@ -1,0 +1,22 @@
+{
+  "name": "a02-rogeryu01",
+  "version": "1.0.0",
+  "description": "a02 css assignmnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rogeryu01: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@github.com/jdmar3-comp426/a02-rogeryu01.git"
+  },
+  "author": "Roger Yu",
+  "license": "GNU.3 ",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-rogeryu01/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-rogeryu01#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
