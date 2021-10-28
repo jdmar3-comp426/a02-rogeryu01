@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a02-rogeryu01/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a02-rogeryu01#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a02-rogeryu01#readme",
+  "dependencies": {
+    "bulma": "^0.9.3"
+  }
 }
